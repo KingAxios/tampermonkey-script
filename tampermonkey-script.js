@@ -1,15 +1,3 @@
-// ==UserScript==
-// @name         AxiosCheats.Sellpass.Io
-// @namespace    http://tampermonkey.net/
-// @version      2024-05-20
-// @description  try to take over the world!
-// @author       Axios
-// @match        https://starve.io/*
-// @run-at       document-start
-// @require      https://unpkg.com/guify@0.12.0/lib/guify.min.js
-// @grant        unsafeWindow
-// ==/UserScript==
-
 (function() {
     'use strict';
 
