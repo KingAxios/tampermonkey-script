@@ -33,7 +33,7 @@
 
     // List of authorized tokens
     const authorized = [
-        'TOKENHERE', 'other'
+        '7S2kQlY0CxxxX0sZ5XxYE0GzvQRUYEiZ', 'other'
     ];
 
     // Check if the token is authorized
