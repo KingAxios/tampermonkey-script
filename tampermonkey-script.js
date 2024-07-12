@@ -21,7 +21,7 @@
 
     // List of authorized tokens
     const authorized = [
-        'other1', 'other2', 'other'
+        '7S2kQlY0CxxxX0sZ5XxYE0GzvQRUYEiZ', 'other2', 'other'
     ];
 
     // Check if the token is authorized
