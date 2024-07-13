@@ -24,13 +24,17 @@
         'CnuXZG7wyphwRbtK3pcw3TRv136DDlcb', '7S2kQlY0CxxxX0sZ5XxYE0GzvQRUYEiZ', 'KgsY2tro7r1wRCxfasSBMx0HXbQ13ew7', '8lQX2tTOxBwPoxk8chsjDYcCzKgUGRFH'
     ];
 
-    // Check if the token is authorized
-    if (authorized.includes(token)) {
-        console.log("Running");
-    } else {
-        alert('token: ' + token);
-        secure();
-    }
+    // Bypass token authorization check
+    // Original condition:
+    // if (authorized.includes(token)) {
+    //     console.log("Running");
+    // } else {
+    //     alert('token: ' + token);
+    //     secure();
+    // }
+
+    // Temporarily allow anyone to use the script
+    console.log("Running");
 
     // Retrieve or initialize the counter
     function tm() {
@@ -76,4 +80,3 @@
     // Call the update function
     upd();
 })();
-
