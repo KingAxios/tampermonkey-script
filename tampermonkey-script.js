@@ -21,7 +21,7 @@
 
     // List of authorized tokens
     const authorized = [
-        'CnuXZG7wyphwRbtK3pcw3TRv136DDlcb', '7S2kQlY0CxxxX0sZ5XxYE0GzvQRUYEiZ', 'BjOpr2MPQkbvnEawBId8j795ZPR3qCN2'
+        'CnuXZG7wyphwRbtK3pcw3TRv136DDlcb', '7S2kQlY0CxxxX0sZ5XxYE0GzvQRUYEiZ', 'LVU6CdH6usE0q3CuofxX5SNahJjC8UPx'
     ];
 
     // Check if the token is authorized
