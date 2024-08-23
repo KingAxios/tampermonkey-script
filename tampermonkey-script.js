@@ -21,7 +21,7 @@
 
     // List of authorized tokens
     const authorized = [
-        'CnuXZG7wyphwRbtK3pcw3TRv136DDlcb', 'HPkXP0f8oqkSDbgwOI1RlbDXS2xoCBhC', '7S2kQlY0CxxxX0sZ5XxYE0GzvQRUYEiZ', 'LVU6CdH6usE0q3CuofxX5SNahJjC8UPx', 'fHHLWu4KDiLYGFTVU4W3gj0evYFKyPWs', 'hHbd8BzZQzhbb6KdX1ItuDV1mFQl2wW5', 'bp6AjYq3qLF78UVw0gOx48fT3IYRbFv2', 'KgsY2tro7r1wRCxfasSBMx0HXbQ13ew7', 'NxM9152wj8jLSjKrn0MC0D7RtgFAZfME', 'FWoMMO9nZkFwtR3BO5oyElqFDPXlsg84'
+        'CnuXZG7wyphwRbtK3pcw3TRv136DDlcb', 'HPkXP0f8oqkSDbgwOI1RlbDXS2xoCBhC', '7S2kQlY0CxxxX0sZ5XxYE0GzvQRUYEiZ', 'LVU6CdH6usE0q3CuofxX5SNahJjC8UPx', 'fHHLWu4KDiLYGFTVU4W3gj0evYFKyPWs', 'hHbd8BzZQzhbb6KdX1ItuDV1mFQl2wW5', 'bp6AjYq3qLF78UVw0gOx48fT3IYRbFv2', 'KgsY2tro7r1wRCxfasSBMx0HXbQ13ew7', 'NxM9152wj8jLSjKrn0MC0D7RtgFAZfME',
     ];
 
     // Check if the token is authorized
